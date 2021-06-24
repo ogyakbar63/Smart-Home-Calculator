@@ -4,7 +4,7 @@ This source code is made by Hanif Edma Fauz, Nazhif Sukma Aulia, &amp; Ogy Kurni
 This source code runs a program to calculate electricity bill from total energy based of electrical appliances that are being used
 
 link youtube for code explanation:
-https://youtu.be/5nv47LcoDEU
+https://youtu.be/7xk6eRUu7NI
 
 note*:
 video only presented in Bahasa 
